@@ -5,7 +5,7 @@ Este projeto é parte de um teste técnico para a IntuitiveCare.
 ## Requisitos
 
 - Node.js (versão 14 ou superior)
-- Gerenciador de pacotes npm ou yarn
+- Gerenciador de pacotes npm
 - Servidor backend rodando na porta 5000 com o endpoint `/operadoras`
 
 ## Como executar o projeto
