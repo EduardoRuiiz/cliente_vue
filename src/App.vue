@@ -1,5 +1,5 @@
 <template>
-  <Operadoras msg="Eduardo Ruiz teste tecnico intuitive care" />
+  <Operadoras msg="Eduardo Ruiz teste com Vue.js" />
 </template>
 
 <script>
