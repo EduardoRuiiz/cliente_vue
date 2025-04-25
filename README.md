@@ -1,6 +1,8 @@
-# Etapa 4 - Frontend Teste Técnico IntuitiveCare
+# Front-end com Vue.js
 
-Este projeto é parte de um teste técnico para a IntuitiveCare.
+## Descrição
+
+Cliente Vue.js que interage com um servidor em Python para realizar consultas de uma tabela em csv.
 
 ## Requisitos
 
